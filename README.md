@@ -1,5 +1,5 @@
-AES Cipher by JAVA
+<strong>AES Cipher by JAVA</strong>
 *******************
-- Implementation of AES (Advanced Encryption Standard)cipher by JAVA.
+- Implementation of <strong>AES (Advanced Encryption Standard)cipher by JAVA</strong>.
 - NetBeans Project.
 - Simple GUI frame to test the functionality of the code.
